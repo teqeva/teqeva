@@ -2,7 +2,7 @@
 
 **Cloud & DevOps Enthusiast**
 
-[[LinkedIn](#)](https://www.linkedin.com/in/eva-muthoni-a94355348/) 
+[[[LinkedIn](https://www.linkedin.com/in/eva-muthoni-a94355348/)](#)]
 
 Building hands-on skills in cloud infrastructure, CI/CD, and containerization — one project at a time.
 
