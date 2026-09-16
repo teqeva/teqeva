@@ -1,6 +1,6 @@
 # Eva Muthoni
 
-**Cloud-Native & DevOps Engineer
+**Cloud-Native & DevOps Engineer**
 
 [Linked-In](https://www.linkedin.com/in/eva-muthoni-a94355348/) | [Twitter-X](https://x.com/MSulela11212)
 
