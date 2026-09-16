@@ -41,7 +41,6 @@ Building hands-on skills in cloud infrastructure, CI/CD, and containerization a 
 
 ## Tools I Use Often
 
-`Docker` · `Bash` · `Terraform` · `Jenkins` · `ArgoCD` · `Linux` · `Git`
-
+`Docker` · `Kubernetes` · `Terraform` · `Jenkins` · `ArgoCD` · `Linux` · `Bash Scripting` 
 
 ---
