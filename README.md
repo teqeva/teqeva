@@ -6,7 +6,6 @@
 
 Building hands-on skills in cloud infrastructure, CI/CD, and containerization.
 
-⚡ Fun fact: I've spent more time debugging YAML indentation than actual code
 ---
 
 ## What I've Built
